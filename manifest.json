@@ -1,0 +1,25 @@
+{
+  "name": "Le Grimoire Marin de Cécile Keraudren",
+  "short_name": "Grimoire Marin",
+  "description": "Fiches séances, sécurité, médical et administratif — voile habitable",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#1d5f7c",
+  "orientation": "any",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
